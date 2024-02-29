@@ -58,7 +58,7 @@ module dut(input [WIDTH-1:0] A,
         end
     end
 initial begin
-	$dumpfile("divison.vcd");
+	$dumpfile("division.vcd");
 	$dumpvars;
 end
 endmodule
