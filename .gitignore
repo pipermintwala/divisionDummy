@@ -3,6 +3,5 @@
 /tests/sp.vcd
 /tests/results.xml
 /tests/__pycache__
-/tests/division.vcd
 /tests/wrappers
 /hdl/div.sv
